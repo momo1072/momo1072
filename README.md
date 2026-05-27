@@ -52,7 +52,8 @@ Eine kuratierte Liste mit Tools, Projekten und Ressourcen rund um den Raspberry 
 
 ## 📈 GitHub Stats
 
-![momo1072's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momo1072&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momo1072&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1072&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
